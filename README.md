@@ -29,7 +29,7 @@ I'm a Web Application Development student working towards Cross-Platform Applica
 ## Projects
 
 ### [Chikote Up](https://github.com/francisca-moya/chikote-up)
-Co-developing a web application focused on recipe discovery, ingredient management, and AI-powered culinary recommendations.
+Academic team project focused on recipe discovery, ingredient management, and AI-powered culinary recommendations.
 
 ### Contact
 **LinkedIn:** [/in/fran-moya-117494445](https://www.linkedin.com/in/fran-moya-117494445)  
