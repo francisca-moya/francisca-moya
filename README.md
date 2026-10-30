@@ -1,7 +1,7 @@
 # Fran Moya
 
 <div align="justify">
-##  DAW Student | Aspiring Digital Forensic Analyst | Co-developer of Chikote Up
+## DAW Student | Aspiring Digital Forensic Analyst | Co-developer of Chikote Up
 
 ### About Me
 
