@@ -24,7 +24,7 @@ I'm a Web Application Development [ DAW ] student working towards Cross-Platform
 ## Languages
 
 - **Spanish**: Native
-- **English**: B1–B2 (self-assessed - Europass framework - strongest area: reading)
+- **English**: Europass B1–B2 [ self-assessed -> strongest area: reading ]
 
 ## Projects
 
