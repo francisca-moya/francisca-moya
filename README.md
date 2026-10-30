@@ -1,16 +1,32 @@
-## Hi there 👋
+# Fran Moya
 
-<!--
-**francisca-moya/francisca-moya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="justify">
+##  DAW Student | Aspiring Digital Forensics Analyst
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Web Application Development student working towards Cross-Platform Application Development + Cybersecurity and Digital Forensics specialization. I'm focused on becoming a **Digital Forensic Analyst**, specifically in judicial proceedings.
+
+### Skills
+
+**Analytical:**
+- Attention to detail
+- Structured problem-solving
+- Methodical documentation
+- Evidence-based conclusions
+
+**Professional:**
+- Organization and punctuality
+- Ethical rigor and confidentiality
+- Autonomous learning
+
+### Professional Values
+- Precision and methodological rigor
+- Confidentiality and integrity
+- Step-by-step documentation
+- Clear communication of findings
+
+### Contact
+**LinkedIn:** [/in/fran-moya-117494445](https://www.linkedin.com/in/fran-moya-117494445)  
+**Email:** [francisca.moya@proton.me](mailto:francisca.moya@proton.me)  
+</div>
