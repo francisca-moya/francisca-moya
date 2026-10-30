@@ -5,31 +5,33 @@
 
 ### About Me
 
-I'm a Web Application Development student working towards Cross-Platform Application Development and Cybersecurity and Digital Forensics specialization. I'm focused on becoming a **Digital Forensic Analyst**, specifically in judicial proceedings.
+I'm a Web Application Development [ DAW ]student working towards Cross-Platform Application Development [ DAM ] and a Cybersecurity & Digital Forensics specialization. My goal is to work as a **Digital Forensic Analyst** in judicial proceedings.
 
-### Skills
+## Analytical Skills
 
-**Analytical:**
 - Attention to detail
 - Structured problem-solving
-- Methodical documentation
-- Evidence-based conclusions
+- Methodical documentation and evidence-based conclusions
+- Reading and interpreting structured data
 
-**Professional:**
+## Professional Skills
+
 - Organization and punctuality
 - Ethical rigor and confidentiality
 - Autonomous learning
+- Clear written communication of findings
 
-### Professional Values
-- Precision and methodological rigor
-- Confidentiality and integrity
-- Clear and structured documentation
-- Clear communication of findings
+## Languages
+
+- **Spanish**: Native
+- **English**: B1–B2 (self-assessed - Europass framework - strongest area: reading)
 
 ## Projects
 
 ### [Chikote Up](https://github.com/francisca-moya/chikote-up)
 Academic team project focused on recipe discovery, ingredient management, and AI-powered culinary recommendations.
+
+**My role:** Frontend designer — Built and maintained all UI components within the `/design/` folder, implementing responsive layouts and user interface interactions.
 
 ### Contact
 **LinkedIn:** [/in/fran-moya-117494445](https://www.linkedin.com/in/fran-moya-117494445)  
