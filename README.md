@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm a Web Application Development [ DAW ]student working towards Cross-Platform Application Development [ DAM ] and a Cybersecurity & Digital Forensics specialization. My goal is to work as a **Digital Forensic Analyst** in judicial proceedings.
+I'm a Web Application Development [ DAW ] student working towards Cross-Platform Application Development [ DAM ] and a Cybersecurity & Digital Forensics specialization. My goal is to work as a **Digital Forensic Analyst** in judicial proceedings.
 
 ## Analytical Skills
 
