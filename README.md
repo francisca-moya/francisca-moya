@@ -35,6 +35,6 @@ Academic team project focused on recipe discovery, ingredient management, and AI
 
 ### Contact
 **LinkedIn:** [francisca-moya](https://www.linkedin.com/in/francisca-moya-117494445/)  
-**Bluesky:** [francisca-moya.bsky.social](https://bsky.app/profile/francisca-moya.bsky.social) 
+**Bluesky:** [francisca-moya.bsky.social](https://bsky.app/profile/francisca-moya.bsky.social)  
 **Email:** [francisca.moya@proton.me](mailto:francisca.moya@proton.me)  
 </div>
