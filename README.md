@@ -34,6 +34,7 @@ Academic team project focused on recipe discovery, ingredient management, and AI
 **My role:** Frontend designer — Built and maintained all UI components within the `/design/` folder, implementing responsive layouts and user interface interactions.
 
 ### Contact
-**LinkedIn:** [/in/fran-moya-117494445](https://www.linkedin.com/in/fran-moya-117494445)  
+**LinkedIn:** [francisca-moya](https://www.linkedin.com/in/francisca-moya-117494445/))  
+**Bluesky:** [francisca-moya.bsky.social](https://bsky.app/profile/francisca-moya.bsky.social)
 **Email:** [francisca.moya@proton.me](mailto:francisca.moya@proton.me)  
 </div>
